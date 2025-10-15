@@ -36,6 +36,10 @@ This project was built with a focus on the following criteria:
 *   **AI Model:** Google Gemini 2.5 Flash
 
 ---
+## Demo
+
+https://github.com/user-attachments/assets/d5487f06-6b77-4a8d-bae2-c6d7fe45a356
+
 
 ## Setup and Installation
 
