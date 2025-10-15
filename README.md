@@ -3,7 +3,7 @@
 
 A full-stack web application that uses the Google Gemini API to transcribe meeting audio files and generate a concise summary and a list of action items.
 
-![Meeting Summarizer UI](https://i.imgur.com/YOUR_IMAGE_URL.png) <!-- Suggestion: Replace with a screenshot of the app -->
+ <!-- Suggestion: Replace with a screenshot of the app -->
 
 ---
 
