@@ -11,7 +11,7 @@ A full-stack web application that uses the Google Gemini API to transcribe meeti
 
 This project was built with a focus on the following criteria:
 
-*   **Transcription & Summary Quality:** The application leverages the `gemini-1.5-flash` model, which provides powerful audio transcription and language understanding capabilities to ensure high-quality outputs.
+*   **Transcription & Summary Quality:** The application leverages the `gemini-2.5-flash` model, which provides powerful audio transcription and language understanding capabilities to ensure high-quality outputs.
 *   **LLM Prompt Effectiveness:** To ensure reliable and structured output from the AI, the application prompts the Gemini model to return a JSON object containing the transcript, summary, and an array of action items. This avoids fragile text-parsing and results in a more robust system.
 *   **Code Structure:** The project is organized into a clean monorepo-style structure with two distinct parts:
     *   `backend/`: A Node.js and Express server responsible for handling file uploads and communicating with the Gemini API.
