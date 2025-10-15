@@ -39,8 +39,7 @@ This project was built with a focus on the following criteria:
 ## Demo
 
 
-https://github.com/user-attachments/assets/7f8d58ae-e285-4436-bd5e-b929c47e31b2
-
+https://github.com/user-attachments/assets/c8adc9c8-0f12-462c-a102-b0bd907f0202
 
 
 ---
