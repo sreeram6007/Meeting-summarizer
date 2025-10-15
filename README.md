@@ -33,7 +33,7 @@ This project was built with a focus on the following criteria:
 
 *   **Backend:** Node.js, Express.js, Google Generative AI SDK
 *   **Frontend:** React, TypeScript, Vite, Bootstrap
-*   **AI Model:** Google Gemini 1.5 Flash
+*   **AI Model:** Google Gemini 2.5 Flash
 
 ---
 
